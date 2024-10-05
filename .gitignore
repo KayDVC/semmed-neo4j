@@ -1,0 +1,11 @@
+# Mac Specific
+/**/.DS_STORE
+
+# Python
+/**/env/
+
+# Juptyer Artifacts
+/**/.ipynb_checkpoints
+
+# Sensitive data
+/**/.env
